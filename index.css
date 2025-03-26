@@ -490,10 +490,6 @@
     min-height: 200px;
   }
 
-  .u-section-1 .u-layout-wrap-1 {
-    position: relative;
-  }
-
   .u-section-1 .u-layout-cell-1 {
     min-height: 100px;
   }
@@ -6251,7 +6247,7 @@
 }
 
 .u-section-7 .u-group-1 {
-  min-height: 1699px;
+  min-height: 1731px;
   margin-top: 0;
   margin-bottom: 0;
   height: auto;
@@ -6273,8 +6269,7 @@
 }
 
 .u-section-7 .u-form-1 {
-  height: 664px;
-  width: 1232px;
+  height: 1585px;
   margin: 20px 0 0;
 }
 
@@ -6390,67 +6385,67 @@
 
 .u-section-7 .u-form-group-26 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-27 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-28 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-29 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-30 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-31 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-32 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-33 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-34 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-35 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-36 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-37 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-38 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-text-8 {
@@ -6462,17 +6457,17 @@
 
 .u-section-7 .u-form-group-40 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-41 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-form-group-42 {
   margin-left: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 
 .u-section-7 .u-btn-1 {
@@ -6727,7 +6722,6 @@
     height: 319px;
     margin-right: initial;
     margin-left: initial;
-    width: auto;
   }
 
   .u-section-7 .u-layout-cell-2 {
@@ -6873,7 +6867,6 @@
 
   .u-section-7 .u-form-1 {
     height: 673px;
-    width: auto;
     margin-right: initial;
     margin-left: initial;
   }
